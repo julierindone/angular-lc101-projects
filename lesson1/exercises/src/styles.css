@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    background-color: rgb(119, 220, 253);
+}
+
+ul {
+    font-size: large
+}
